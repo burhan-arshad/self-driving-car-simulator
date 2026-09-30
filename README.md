@@ -158,8 +158,8 @@ self_driving_model.keras
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/burhan-arshad/self-driving-car-simulator
+cd self-driving-car-simulator
 ```
 
 ### 2. Create the environment
